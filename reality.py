@@ -58,4 +58,4 @@ for i in os.listdir("./in"):
             b.save(i[:-4]+"_"+".png","png")
             print(t_()-t0)
         except:
-            print(i + " is mega gay")
+            print(i + " is not recognized as a valid image.")
