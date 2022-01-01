@@ -1,5 +1,8 @@
 # image-theming
-creates images stylized in to a few colors -- inspired by the Obama hope poster.<br />
-put all images to convert in the `./in` folder and run.
-<br />
+Stylizes images by restricting the value of pixels to a small set of colors.
 
+## Example
+#### Input
+![Input](https://github.com/icicl/image-theming/blob/master/in/eagle.jpg?raw=true)
+#### Output
+![Output](https://github.com/icicl/image-theming/blob/master/eagle.png?raw=true)
